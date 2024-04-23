@@ -1,0 +1,1 @@
+For this project I will have to create a basic web page structure demonstrating what I've learned in 'The Odin Project' curriculum about HTML and commitment lines
