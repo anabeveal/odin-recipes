@@ -1,0 +1,27 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tittle {
+    background-color: lightgreen;
+    color: green;
+    font-weight: bold;
+    text-align: end;
+}
+.tittle.main {
+    text-align: left;
+}
+.tittletwo {
+    font-weight: bold;
+    color: green;
+}
+.img {
+    width: 350px;
+    height: auto;   
+}
+.img.exception {
+    height: 300px;
+}
+#italic {
+    font-style: italic;
+    font-weight: bold;
+}
